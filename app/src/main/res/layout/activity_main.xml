@@ -13,7 +13,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
         android:contentDescription="Navigate fab"
-        android:src="@drawable/baseline_note_add_24"
+        android:src="@drawable/baseline_add_location_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
