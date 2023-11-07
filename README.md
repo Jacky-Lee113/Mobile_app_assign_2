@@ -1,6 +1,7 @@
 # Mobile_app_assign_2  
 <h1>Initial startup</h1>
 <b1>If entries say "Error retrieving address" please close the emulated phone, wipe the data, turn it on, and turn on then turn off airplane mode before re-running the device<br><br>
+First time running the application will take a long time as it is required to read file, and input 50 values into the database, as well as run all 50 through geocoder and input the address into the database<br><br>
 Input file must contain 2 numbers seperated by a space, with the first number being latitude and second number being longitude. File must be called latlongval and must be placed in the "raw" folder.<br>
 A sample file has been provided.</b1>
 <h2>Functionalities</h2>
